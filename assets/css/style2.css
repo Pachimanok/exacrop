@@ -1,0 +1,26 @@
+h6{
+    color:#fc444c;
+}
+canvas{
+
+    width: 5rem !important;
+    height: 5rem !important;
+    margin-right: 0%;
+  
+  }
+canvas.ac{
+    width: 10rem !important;
+    height: 10rem !important;
+}
+
+canvas.anillos {
+    width: 9rem !important;
+    height: 9rem !important;
+    margin-right: 0%;
+    display: initial!important;
+    
+}
+canvas.barras{
+    width: inherit !important;
+    height: auto !important;    
+}
